@@ -227,8 +227,7 @@ with tab2:
 
     with st.expander('See Explanation'):
         st.write(
-    "We can see from our visualization earlier, **most of our consumers come from south-eastern and southern Brazil.** "
-    "With some of them scattered in other areas in middle, western, and northern Brazil."
+    'Most of our consumer comes from south-eastern and southern Brazil while some of them scattered in other areas in middle, western and northern Brazil. This is factually correct since our most populated state \'SP\' or São Paulo is located at south-eastern Brazil. This insight could be fruitful if we increase our area of operation closer to these populated spot.'
 )
 
 
