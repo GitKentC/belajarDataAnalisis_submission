@@ -14,3 +14,8 @@ pip install --no-warn-conflicts -r requirements.txt
 ```
 streamlit run dashboard/dashboard.py
 ```
+### Or you can run from dashboard url
+Just open this link on browser
+```
+https://gitkentc-belajar-data-analysis-dashboard.streamlit.app/
+```
