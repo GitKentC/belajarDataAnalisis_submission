@@ -12,7 +12,7 @@ pip install --no-warn-conflicts -r requirements.txt
 ## Clone this Github! Using bash:
 ```
 git clone https://github.com/GitKentC/belajarDataAnalisis_submission.git
-cd belajarDataAnalisis
+cd belajarDataAnalisis_submission
 pip install --no-warn-conflicts -r requirements.txt
 streamlit run dashboard/dashboard.py
 ```
