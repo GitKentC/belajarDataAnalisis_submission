@@ -229,5 +229,8 @@ with tab2:
         st.write(
     'Most of our consumer comes from south-eastern and southern Brazil while some of them scattered in other areas in middle, western and northern Brazil. This is factually correct since our most populated state \'SP\' or São Paulo is located at south-eastern Brazil. This insight could be fruitful if we increase our area of operation closer to these populated spot.'
 )
+        
+
+st.caption('Copyright © Kent Cristopher 2024')
 
 
